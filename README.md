@@ -16,3 +16,10 @@ This is a collection of my personal React projects, each organized into its own 
    - **Tech Stack**: React, CSS.
 
 ---
+
+### 2. **Color Viewer**
+- **Description**: A tool that displays the actual color based on the name entered by the user.
+- **Features**:
+   - Accepts color names and hex values as input and changes the display to match the specified color.
+   - Optional text color toggle feature for light or dark backgrounds.
+- **Tech Stack**: React, CSS.
